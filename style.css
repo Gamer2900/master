@@ -1,0 +1,32 @@
+body {
+  background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+  
+.note {
+    font-size: 15px;
+    color: rgb(11, 11, 37);
+}
+
+.div_image1 {
+  float: left;
+}
+
+.div_image2 {
+  float: right;
+}
+
+.div_1_img {
+  width: 200px;
+  border-radius: 100px;
+}
+
+.div_2_img {
+  width: 200px;
+  border-radius: 100px;
+}
